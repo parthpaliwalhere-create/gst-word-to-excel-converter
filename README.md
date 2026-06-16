@@ -24,7 +24,7 @@ A Python desktop application that automates GST invoice processing and accountan
 
 ## Screenshots
 
-(Add screenshots here)
+![](screenshots/p.png)
 
 ## Technologies
 
