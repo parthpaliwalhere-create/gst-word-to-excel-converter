@@ -1,4 +1,0 @@
-python-docx
-openpyxl
-python-dateutil
-pdfplumber
