@@ -1,0 +1,97 @@
+{
+  "business_name": "DEMO TEXTILE RESEARCH LAB",
+  "business_gstin": "00ABCDE1234A1Z0",
+  "default_record_type": "Sales",
+  "currency": "INR",
+  "app_plan": "Demo",
+  "enabled_features": {
+    "gst_excel_converter": true,
+    "ready_upload_export": true,
+    "invoice_generator": true,
+    "customer_database": false,
+    "gstr1_json_export": false,
+    "cloud_backup": false
+  },
+  "plans": {
+    "Basic": [
+      "GST Excel Converter",
+      "Ready Upload Export"
+    ],
+    "Pro": [
+      "Everything in Basic",
+      "Invoice Generator",
+      "Customer Database",
+      "Branded Export"
+    ],
+    "Plus": [
+      "Everything in Pro",
+      "GSTR-1 JSON Export",
+      "Multi Company",
+      "Cloud Backup"
+    ]
+  },
+  "invoice_no_keywords": [
+    "invoice no",
+    "invoice number",
+    "bill no",
+    "bill number",
+    "tax invoice no",
+    "inv no"
+  ],
+  "date_keywords": [
+    "date",
+    "invoice date",
+    "bill date"
+  ],
+  "party_keywords": [
+    "party name",
+    "customer name",
+    "buyer",
+    "billed to",
+    "receiver",
+    "consignee",
+    "supplier",
+    "seller",
+    "name"
+  ],
+  "gstin_keywords": [
+    "gstin",
+    "gst no",
+    "gst number",
+    "gst"
+  ],
+  "amount_keywords": {
+    "taxable_value": [
+      "taxable value",
+      "taxable amount",
+      "sub total",
+      "subtotal",
+      "basic amount",
+      "total amt before tax"
+    ],
+    "cgst": [
+      "cgst",
+      "central tax"
+    ],
+    "sgst": [
+      "sgst",
+      "state tax",
+      "utgst"
+    ],
+    "igst": [
+      "igst",
+      "integrated tax"
+    ],
+    "total": [
+      "grand total",
+      "invoice total",
+      "total amount",
+      "net amount",
+      "amount payable",
+      "total amt after tax"
+    ]
+  },
+  "normal_tax_rate": 18,
+  "special_customer_gstins": [],
+  "special_customer_names": []
+}
