@@ -22,7 +22,7 @@ A Python desktop application that automates GST invoice processing and accountan
 - IGST support
 - Automatic tax calculations
 
-## Screenshots
+## Screenshot
 
 ![](screenshots/p.png)
 
