@@ -21,6 +21,12 @@ A Python desktop application that automates GST invoice processing and accountan
 - CGST/SGST support
 - IGST support
 - Automatic tax calculations
+## How To Use
+- First you have to create a new folder , name it whatever you want....this will be the folder where your gst extract will be saved.
+- Then you have to upload your invoices folder.
+- Then you have to click on save as and select the folder which u have created before.
+- Then click on convert to excel....your gst extract's master workbook and a ready to upload file will be saved in the folder which u have created
+- if u have entered something wrong and have to clear all the uploaded data click on clear button.
 
 ## Screenshot
 
